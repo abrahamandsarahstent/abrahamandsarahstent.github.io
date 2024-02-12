@@ -458,10 +458,15 @@ pre code {
 
 #see-our-upcoming-events a {
   color: #fff !important;
-  background-color: #7c3124 !important;
+  background-color: #955237 !important;
   padding: 2rem !important;
   display: block !important;
   text-align: center !important;
   margin-bottom: 1rem !important;
   border-radius: 15px !important;
+}
+
+#see-our-upcoming-events a:hover,
+#see-our-upcoming-events a:focus;  {
+  background-color: #7c3124 !important;
 }
