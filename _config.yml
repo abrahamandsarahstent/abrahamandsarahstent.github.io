@@ -119,16 +119,16 @@ navigation_header:
 - title: Home
   url: /
 # - title: Elements
-  url: /elements/
+# url: /elements/
 # - title: Blog
-  url: /blog/
+# url: /blog/
 # - title: Categories
-  url: /categories/
+# url: /categories/
 # - title: Search
-  url: /search/
+# url: /search/
 # - title: Fork Alembic
-  url: https://github.com/daviddarnes/alembic
-  - title: Facebook group
+# url: https://github.com/daviddarnes/alembic
+- title: Facebook group
   url: https://www.facebook.com/groups/557302445794217
 
 navigation_footer:
