@@ -63,7 +63,7 @@ collections:
     description: "Abraham and Sarah's Tent" # The post list page content
     feature_text: |
       Blog
-    feature_image: "https://abrahamandsarahstent.github.io/images/tent.png"
+    feature_image: "https://abrahamandsarahstent.github.io/images/tent.jpeg"
 
 # 6. Jekyll collections settings
 defaults:
@@ -71,7 +71,7 @@ defaults:
     scope:
       path: ""
     values:
-      image: "https://abrahamandsarahstent.github.io/images/tent.png" # Default image for sharing
+      image: "https://abrahamandsarahstent.github.io/images/tent.jpeg" # Default image for sharing
   -
     scope:
       path: ""
