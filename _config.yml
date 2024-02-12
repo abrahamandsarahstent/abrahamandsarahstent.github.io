@@ -164,6 +164,7 @@ prose:
   media: "images"
   ignore:
     - /_sass
+    - /_posts
     - /_includes
     - /_layouts
     - /blog
