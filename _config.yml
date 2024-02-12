@@ -120,8 +120,6 @@ navigation_header:
   url: /
 # - title: Elements
 # url: /elements/
-  - title: Upcoming Events
-  url: /events/
 # - title: Blog
 # url: /blog/
 # - title: Categories
@@ -130,7 +128,9 @@ navigation_header:
 # url: /search/
 # - title: Fork Alembic
 # url: https://github.com/daviddarnes/alembic
-- title: Our Facebook Group
+- title: Upcoming Events
+  url: /events/
+- title: Facebook Group
   url: https://www.facebook.com/groups/557302445794217
 
 navigation_footer:
