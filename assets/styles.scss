@@ -4,3 +4,10 @@ styles: true
 ---
 
 @import "alembic";
+
+.layout-home h3 a {
+  color: #fff;
+  background-color: #7c3124;
+  padding: 2rem;
+  border-radius: 15px;
+}
