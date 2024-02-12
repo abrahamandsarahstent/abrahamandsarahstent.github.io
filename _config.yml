@@ -163,9 +163,19 @@ prose:
   ignore:
     - /_sass
     - /_includes
-    - /_layout
+    - /_layouts
+    - /blog
     - /assets
     - /_github
+    - CNAME
+    - Gemfile
+    - LICENSE
+    - _config.yml
+    - alembic-jekyll-theme.gemspec
+    - categories.md
+    - screenshot.png
+    - .github
+    - .github
     - sitemap.xml
     - feed.xml
     - README.md
