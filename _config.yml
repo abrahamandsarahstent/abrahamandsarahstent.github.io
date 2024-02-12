@@ -62,8 +62,8 @@ collections:
     output: true
     description: "Abraham and Sarah's Tent" # The post list page content
     feature_text: |
-      Welcome to the blog
-    feature_image: "https://raw.githubusercontent.com/abrahamandsarahstent/abrahamandsarahstent.github.io/main/images/tent.png"
+      Blog
+    feature_image: "https://abrahamandsarahstent.github.io/images/tent.png"
 
 # 6. Jekyll collections settings
 defaults:
@@ -71,7 +71,7 @@ defaults:
     scope:
       path: ""
     values:
-      image: "https://raw.githubusercontent.com/abrahamandsarahstent/abrahamandsarahstent.github.io/main/images/tent.png" # Default image for sharing
+      image: "https://abrahamandsarahstent.github.io/images/tent.png" # Default image for sharing
   -
     scope:
       path: ""
@@ -89,7 +89,7 @@ defaults:
 encoding: utf-8 # Make sure the encoding is right
 lang: en-GB # Set the site language
 title: "Alembic" # Site name or title, also used in jekyll-seo-tag
-logo: "https://raw.githubusercontent.com/abrahamandsarahstent/abrahamandsarahstent.github.io/main/images/spacer.png" # Site logo, also used in jekyll-seo-tag
+logo: "https://abrahamandsarahstent.github.io/images/spacer.png" # Site logo, also used in jekyll-seo-tag
 description: "A welcoming online community for progressive Jewish life and worship" # Site description and default description, also used in jekyll-seo-tag
 url: "https://abrahamandsarahstent.github.io" # Site url, also used in jekyll-seo-tag
 baseurl: ""
