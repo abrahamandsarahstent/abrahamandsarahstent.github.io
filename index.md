@@ -15,4 +15,4 @@ Rabbi Judith Levitt and her team lead services, adult education, B’nei Mitzvah
 
 We aim to create spaces which are especially welcoming if you are shielding or otherwise still COVID-cautious, housebound, elderly, unwell, disabled, neurodiverse, LGBTQIA+, can’t access a physical building to engage in Jewish life, or otherwise don’t feel you have a place in mainstream Judaism. However, if none of these apply and you’d just like to join us because we’re awesome, we would love to have you! **You. Are. Welcome**.
 
-If you'd like to know more, you can [access our Facebook group](https://www.facebook.com/groups/557302445794217), or [visit Rabbi Judith's Linktree](https://linktr.ee/rabbijudith). When registration links for upcoming events are available, we will post them to this page.
+If you'd like to know more, you can [access our Facebook group](https://www.facebook.com/groups/557302445794217), or [visit Rabbi Judith's Linktree](https://linktr.ee/rabbijudith). When registration links for upcoming events are available, we will post them to our [events page](https://abrahamandsarahstent.github.io/events).
