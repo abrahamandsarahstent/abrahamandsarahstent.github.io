@@ -6,7 +6,7 @@ feature_image: >-
   https://raw.githubusercontent.com/abrahamandsarahstent/abrahamandsarahstent.github.io/main/images/tent.png
 ---
 
-Our next event is Erev Shabat service and will be led by Rabbi Judith on Friday March 1st at 6:30pm. 0
+Our next event is Erev Shabat service and will be led by Rabbi Judith on Friday March 1st at 6:30pm.
 
 Zoom link coming soon!
 
