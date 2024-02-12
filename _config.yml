@@ -147,6 +147,37 @@ sharing_links: # Appear at the bottom of single blog posts, add as desired. The 
   facebook: "#3B5998"
   Email: true
 
+prose:
+  metadata:
+    _posts:
+      - name: "title"
+        field:
+          element: "text"
+          label: "title"
+      - name: "published"
+        field:
+          element: "checkbox"
+          label: "Published"
+          value: false
+  media: "img"
+  ignore:
+    - /_sass
+    - /_includes
+    - /_layout
+    - /assets
+    - sitemap.xml
+    - feed.xml
+    - README.md
+    - .gitignore
+    - index.html
+    - robots.txt
+    - 404.md
+    - offline.md
+    - elements.md
+    - search.md
+    - thanks.md
+    
+
 # Load custom fonts from fonts.google.com etc
 #
 # TIP: Try to keep the number of urls as low to reduce the performance cost
