@@ -60,7 +60,7 @@ collections:
   posts:
     title: Posts # Needed for Siteleaf
     output: true
-    description: "My thoughts and ideas" # The post list page content
+    description: "Abraham and Sarah's Tent" # The post list page content
     feature_text: |
       Welcome to the blog
     feature_image: "https://raw.githubusercontent.com/abrahamandsarahstent/abrahamandsarahstent.github.io/main/images/tent.png"
@@ -94,7 +94,7 @@ description: "Alembic is a starting point for Jekyll projects. Rather than start
 url: "https://abrahamandsarahstent.github.io" # Site url, also used in jekyll-seo-tag
 baseurl: ""
 repo: "https://github.com/abrahamandsarahstent/abrahamandsarahstent.github.io"
-email: "me@daviddarnes.com"
+email: "rabbijudith@icloud.com"
 # disqus: "alembic-1" # Blog post comments, uncomment the option and set the site ID from your Disqus account
 # date_format: "%-d %B %Y" # Blog post date formatting using placeholder formatting
 # google_analytics: ""
@@ -118,30 +118,32 @@ favicons: # Favicons are also used in the manifest file. Syntax is 'size: path'
 navigation_header:
 - title: Home
   url: /
-- title: Elements
+# - title: Elements
   url: /elements/
-- title: Blog
+# - title: Blog
   url: /blog/
-- title: Categories
+# - title: Categories
   url: /categories/
-- title: Search
+# - title: Search
   url: /search/
-- title: Fork Alembic
+# - title: Fork Alembic
   url: https://github.com/daviddarnes/alembic
+  - title: Facebook group
+  url: https://www.facebook.com/groups/557302445794217
 
 navigation_footer:
 - title: Created by David Darnes
   url: https://darn.es
 
 social_links: # Appears in sidebar. Set the urls then uncomment and comment out as desired
-  Twitter: https://twitter.com/DavidDarnes
-  LinkedIn: https://www.linkedin.com/in/daviddarnes
-  GitHub: https://github.com/daviddarnes
-  link: https://darn.es
+  # Twitter: https://twitter.com/DavidDarnes
+  # LinkedIn: https://www.linkedin.com/in/daviddarnes
+  # GitHub: https://github.com/daviddarnes
+  link: https://www.facebook.com/groups/557302445794217
   RSS: /feed.xml
 
 sharing_links: # Appear at the bottom of single blog posts, add as desired. The value can be 'true' or the desired button colour
-  Twitter: "#0d94e7"
+  # Twitter: "#0d94e7"
   facebook: "#3B5998"
   Email: true
 
