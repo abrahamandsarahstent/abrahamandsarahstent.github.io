@@ -2,7 +2,7 @@
 title: Abraham and Sarah's Tent
 feature_text: |
   ## Abraham and Sarah's Tent
-feature_image: "https://picsum.photos/1300/400?image=989"
+feature_image: "https://raw.githubusercontent.com/abrahamandsarahstent/abrahamandsarahstent.github.io/main/images/tent.png"
 ---
 
 Abraham & Sarah’s Tent is a welcoming inclusive online community for progressive Jews (or those exploring their relationship with Judaism) in the U.K. & around the world to create a sense of community & support one another. 
