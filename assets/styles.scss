@@ -4,3 +4,10 @@ styles: true
 ---
 
 @import "alembic";
+
+#see-our-upcoming-events a {
+  color: #fff !important;
+  background-color: #7c3124 !important;
+  padding: 2rem !important;
+  border-radius: 15px !important;
+}
