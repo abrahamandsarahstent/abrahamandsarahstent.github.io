@@ -11,8 +11,6 @@ Abraham & Sarah’s Tent is a welcoming and inclusive online community for progr
 
 Rabbi Judith Levitt and her team lead services, adult education, B’nei Mitzvah tutoring and pastoral care, as well as so much more.
 
-Emma and I are working hard on this  - well she is
-
 We aim to create spaces which are especially welcoming if you are shielding or otherwise still COVID-cautious, housebound, elderly, unwell, disabled, neurodiverse, LGBTQI+, can’t access a physical building to engage in Jewish life, or otherwise don’t feel you have a place in mainstream Judaism. However, if none of these apply and you’d just like to join us because we’re awesome, we would love to have you! You. Are. Welcome.
 
 ### [See our upcoming events](https://abrahamandsarahstent.github.io/events)
