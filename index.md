@@ -9,7 +9,7 @@ layout: home
 
 Abraham & Sarah’s Tent is a welcoming and inclusive online community for progressive Jews (or those exploring their relationship with Judaism) in the U.K. and around the world to create a sense of community and support one another. 
 
-Rabbi Judith Levitt and her team lead services, adult education, B’nei Mitzvah tutoring and pastoral care, as well as so much more. She created a [Prayer For Those Who Do Not Heal](Https://abrahamsarahstent.github.io/prayerdonotheal), which has been included in the Reform Judaism High Holy Day Machzor.
+Rabbi Judith Levitt and her team lead services, adult education, B’nei Mitzvah tutoring and pastoral care, as well as so much more. She created a [Prayer For Those Who Do Not Heal](Https://abrahamsarahstent.github.io/Prayer_Do_Not_Heal), which has been included in the Reform Judaism High Holy Day Machzor.
 
 ### [See our upcoming events](https://abrahamandsarahstent.github.io/events)
 
