@@ -1,3 +1,11 @@
+---
+title: A Prayer For Those Who Do Not Heal
+feature_text: |
+  ## Prayer For Those Who Do Not Heal
+feature_image: >-
+  https://raw.githubusercontent.com/abrahamandsarahstent/abrahamandsarahstent.github.io/main/images/tent.png
+---
+
 A Prayer for Those Who Do Not Heal
 
 Eternal God, You created each of us in your image. We pray for all those whose struggles are ongoing. We pray for those with chronic health conditions and for those with disabilities. We pray for those who seek healing and those who seek understanding. We pray for those whose bodies and minds will not heal. Give them strength and resilience. We are still whole in your eyes. 
