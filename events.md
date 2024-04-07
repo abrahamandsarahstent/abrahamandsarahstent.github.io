@@ -23,6 +23,3 @@ This is a message from student Rabbi Eleanor Davis who is organising it:
 20:30 Seder Part 2, to end at 21:15
 "Register for your free place here
 [http://tinyurl.com/OnlineSeder2024](http://tinyurl.com/OnlineSeder2024)
-
-
-Events go here with links in this format: [link text](linkurl).
