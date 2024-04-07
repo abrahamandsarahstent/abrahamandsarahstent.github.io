@@ -118,20 +118,12 @@ favicons: # Favicons are also used in the manifest file. Syntax is 'size: path'
 navigation_header:
 - title: Home
   url: /
-# - title: Elements
-# url: /elements/
-# - title: Blog
-# url: /blog/
-# - title: Categories
-# url: /categories/
-# - title: Search
-# url: /search/
-# - title: Fork Alembic
-# url: https://github.com/daviddarnes/alembic
 - title: Upcoming Events
   url: /events/
 - title: Facebook Group
   url: https://www.facebook.com/groups/557302445794217
+- title: Prayer For Those Who Do Not Heal
+  url: /Prayer_Do_Not_Heal/
 
 navigation_footer:
 - title: Abraham and Sarah's Tent
