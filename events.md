@@ -22,11 +22,11 @@ Led by Rabbi Daisy Bogod:
 
 **Yizkor/Ne'ila:** Sat 12th October 5:30-7:00pm
 
+All times are UK BST.
+
 
 ## Zoom sign up link:
 
 [https://tinyurl.com/TentHHD2024](https://tinyurl.com/TentHHD2024)
 
 With thanks to Liberal Judaism and The Movement for Reform Judaism
-
-
