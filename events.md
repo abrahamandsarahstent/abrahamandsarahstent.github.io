@@ -9,7 +9,7 @@ feature_image: >-
 Our next event is an online Seder for Pesach.
 ![Seder online 2025 - Wednesday 16th April, 6pm. Email AbrahamAndSarahsTent@proton.me for the link. All welcome!](http://abrahamandsarahstent.github.io/images/IMG_0622.png)
 
-**When**: Wednesday 16th April, 2025
+**When**: 6pm Wednesday 16th April, 2025
 
 **Where**: Zoom (see below)
 
