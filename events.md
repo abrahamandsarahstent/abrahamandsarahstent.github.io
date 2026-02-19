@@ -6,10 +6,12 @@ feature_image: >-
   https://raw.githubusercontent.com/abrahamandsarahstent/abrahamandsarahstent.github.io/main/images/tent.png
 ---
 
-Our next event is an online Seder for Pesach.
-![Seder online 2025 - Wednesday 16th April, 6pm. Email AbrahamAndSarahsTent@proton.me for the link. All welcome!](http://abrahamandsarahstent.github.io/images/IMG_0622.png)
+Our next event is an online Kabbalat Shabbat service.
+![Kabbalat Shabbat - Abraham and Sarah's Tent. Led by Mich Sampson. Friday 27th February 6:30pm UK Time](http://abrahamandsarahstent.github.io/images/8091febb-35d1-4397-909d-83607c952e83.png)
 
-**When**: 6pm Wednesday 16th April, 2025
+**What**: 45-minute Kabbalat Shabbat service and discussion, led by Mich Sampson. Join us as we welcome Shabbat together. 
+
+**When**: Friday 27th February 2026: 6:30pm UK Time
 
 **Where**: Zoom (see below)
 
